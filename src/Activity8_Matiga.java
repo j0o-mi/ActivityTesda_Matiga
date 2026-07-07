@@ -1,4 +1,3 @@
-package Activity8;
 import java.util.Scanner;
 
 public class Activity8_Matiga {
