@@ -12,7 +12,7 @@ public class Activity9_Matiga {
 
         // display the output - accessing the public and private infos.
         System.out.println("==== Display Student Information ====");
-        System.out.println("Student Name: " + student.name); // can be easily accessed because it's set to public field.
+        System.out.println("Student Name: " + student.name);                // can be easily accessed because it's set to public field.
         System.out.println("Student Age: " + student.getAge());
         System.out.println("Student Course: " + student.getCourse());
         System.out.println("Student ID: " + student.getStudentID());
