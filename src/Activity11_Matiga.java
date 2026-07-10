@@ -21,7 +21,7 @@ class Student extends Person {
     protected String course;
 
     // Constructor for Student - for course.
-    // super(); is used to access the name and age variables.
+    // super(); is used to access the name and age println.
     public Student  (String name, int age, String course) {
         super(name, age);
         this.course = course;
@@ -29,7 +29,7 @@ class Student extends Person {
 
     // Display Method is yet again used, to display the student infos.
     // used of @Override to access the existing method and add/change something in it.
-    // super(); is used to access the name and age println.
+    // super.displayInfo() reuses the parent's displayInfo() to print name and age
     @Override
     public void displayInfo() {
         System.out.println("========= Student Info =========");
