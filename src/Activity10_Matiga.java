@@ -55,7 +55,7 @@ public class Activity10_Matiga {
 //        System.out.println("=== Jelly Bank User Information ===");
 //        System.out.println("Account Number: " + bankAccount.getAccountNumber());
 //        System.out.println("Account Holder: " + bankAccount.getAccountHolder());
-//        System.out.println("Account Balance: " + bankAccount.getBalance());
+//        System.out.println("Account Balance: ₱" + bankAccount.getBalance());
 
         // assigning new values using setters.
         bankAccount.setAccountNumber("123456789");
@@ -68,6 +68,6 @@ public class Activity10_Matiga {
         System.out.println("\n=== Jelly Bank User Information ===");
         System.out.println("Account Number: " + bankAccount.getAccountNumber());
         System.out.println("Account Holder: " + bankAccount.getAccountHolder());
-        System.out.println("Account Balance: " + bankAccount.getBalance());
+        System.out.println("Account Balance: ₱" + bankAccount.getBalance());
     }
 }
