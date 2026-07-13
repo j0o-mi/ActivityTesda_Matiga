@@ -60,7 +60,7 @@ public class Activity3_Matiga {
         }
     }
 
-    // Snack Menu Method - Reusable Data for printing the Snack Menu.
+    // Snack Menu Method - Reusable Data for printing the Snack Menu..
     static void SnackMenu() {
         System.out.println("1. Burger - ₱50");
         System.out.println("2. Fries - ₱40");

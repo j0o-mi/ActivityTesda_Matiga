@@ -44,7 +44,7 @@ public class Activity14_Matiga {
         int addEnd = sc.nextInt();
         list.add(addEnd);
 
-        // display the updated collections of array list.
+        // display the updated collections of array list..
         System.out.println("After adding at beginning and end: " + list);
 
         sc.close();

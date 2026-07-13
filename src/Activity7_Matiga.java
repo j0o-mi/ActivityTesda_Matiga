@@ -110,7 +110,7 @@ public class Activity7_Matiga {
         }
     }
 
-    // balance method - 'void' because it returns nothing.
+    // balance method - 'void' because it returns nothing..
     static void checkBalance(double balance) {
         System.out.printf("Current Balance: ₱%.2f%n", balance);
     }

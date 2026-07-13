@@ -40,7 +40,7 @@ public class Activity6_Matiga {
             System.out.println("Student " + (i + 1) + ": " + grades[i]);
         }
 
-        // display the calculations.
+        // display the calculations..
         System.out.printf("\nTotal Score: %.2f" , totalGrade);
         System.out.printf("\nAverage Score: %.2f" , averageGrade);
         System.out.printf("\nHighest Score: %.2f" , highestGrade);

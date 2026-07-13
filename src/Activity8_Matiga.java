@@ -57,7 +57,7 @@ public class Activity8_Matiga {
 
         // calls out display method to print the values of the students.
         student1.display(1);    // student 1 will use the default/fixed constructor by default.
-        student2.display(2);    // student 2 will use the values by the parameterized constructor.
+        student2.display( 2);    // student 2 will use the values by the parameterized constructor..
 
         sc.close();
 

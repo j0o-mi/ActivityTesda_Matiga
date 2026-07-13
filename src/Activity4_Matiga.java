@@ -23,7 +23,7 @@ public class Activity4_Matiga {
             // used post - increment to count the total attempts of the user
             attempts++;
 
-            // else if statement - used to display the progress of the user.
+            // else if statement - used to display the progress of the user..
             if (userGuess == secretNum) {
                 System.out.println("Congratulations! You have guessed it in " + attempts + " attempts.");
             } else if (userGuess > secretNum) {

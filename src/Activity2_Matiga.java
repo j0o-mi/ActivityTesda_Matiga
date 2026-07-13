@@ -53,7 +53,7 @@ public class Activity2_Matiga {
             System.out.println("Ticket Price: " + priceSenior);
         }
 
-        // final message.
+        // final message..
         System.out.println("Enjoy Watching!");
     }
 }
